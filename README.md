@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 노력하는 백엔드 개발자를 목표로 하는 자몽입니다. 👋
 
 <!--
 **jaamong/jaamong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
