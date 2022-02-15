@@ -1,5 +1,8 @@
 ### 안녕하세요. 노력하는 백엔드 개발자를 목표로 하는 자몽입니다. 👋
 
+- 🌱 I’m currently learning Spring, SpringBoot
+
+#### NOTION : https://vaulted-speedwell-2e0.notion.site/About-Me-10c00df2970d4baca71e6f31cd24eefc
 <!--
 **jaamong/jaamong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
