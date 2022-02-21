@@ -40,11 +40,13 @@
 <h3 align="center">💻 My Github Stats 💻</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaamong&show_icons=true&count_private=true&hide=issues"></p>
 <br>
+<h3 align="center">🌱 About Me 🌱</h3>
+<p align="center">
+<a href="https://vaulted-speedwell-2e0.notion.site/About-Me-10c00df2970d4baca71e6f31cd24eefc"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
+</p>
+<br>
 <h3 align="center">😊 My Blog 😊</h3>
 <p align="center"><a href="https://backend-jaamong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
-<p align="center">
-  <a href="https://vaulted-speedwell-2e0.notion.site/About-Me-10c00df2970d4baca71e6f31cd24eefc"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
-</p>
 <br>
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
