@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20jaamong's%20GitHub!&descAlignY=60&descAlign=62"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20jaamong's%20GitHub!&descAlignY=60&descAlign=62"/></div>
 <h3 align="center">🛠 Tech Stack & Development Environment 🛠</h3>
 <p align="center"> that I've used at least once </p>
 <!-- https://simpleicons.org/ -->
