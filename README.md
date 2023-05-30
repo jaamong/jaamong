@@ -28,20 +28,24 @@
 <br>
 <h3 align="center">🌱 About Me 🌱</h3>
 <p align="center">
-<a href="https://vaulted-speedwell-2e0.notion.site/About-Me-10c00df2970d4baca71e6f31cd24eefc"><img src="https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://drive.google.com/file/d/1SGsxKnUVSsVHRzDzRgqtgUO2qK8xKCmJ/view?usp=sharing"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=black"/></a>
 </p>
 <br>
+
 <h3 align="center">😊 My Blog 😊</h3>
-<p align="center"><a href="https://backend-jaamong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
+<p align="center">
+  <a href="https://backend-jaamong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
 <br>
+
 <h3 align="center">📫 How to reach me 📫</h3>
 <p align="center">
   <a href="mailto:themusic025@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=themusic025@gmail.com"/></a>
 </p>
+
 <br>
 <br>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaamong%2Fhit-counter&count_bg=%23A4E772&title_bg=%234CB019&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaamong%2Fhit-counter&count_bg=%23A4E772&title_bg=%234CB019&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
 </p>
 
 <!--
