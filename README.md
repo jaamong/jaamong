@@ -24,7 +24,11 @@
 <br>
 
 <h3 align="center">💻 My Github Stats 💻</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaamong&show_icons=true&count_private=true&hide=issues"></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaamong&show_icons=true&count_private=true&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaamong&layout=compact">
+</p><br>
+
 <br>
 <h3 align="center">🌱 About Me 🌱</h3>
 <p align="center">
