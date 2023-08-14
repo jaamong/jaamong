@@ -1,13 +1,18 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20jaamong's%20GitHub!&descAlignY=60&descAlign=62"/></div>
-<h3 align="center">🛠 Tech Stack & Development Environment 🛠</h3>
+
 <!-- https://simpleicons.org/ -->
+<!--
+<h3 align="center">🛠 Tech Stack & Development Environment 🛠</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
  <br> 
     
-</p>
+</p> 
+-->
+
 <br>
 
 <h3 align="center">💻 My Github Stats 💻</h3>
