@@ -23,7 +23,7 @@
 <br>
 <h3 align="center">🌱 About Me 🌱</h3>
 <p align="center">
-  <a href=https://drive.google.com/file/d/1QBgXCtq_-LEO5i4ja5VPYulXBOkA8jMt/view?usp=drive_link""><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=black"/></a>
+  <a href="https://drive.google.com/file/d/1QBgXCtq_-LEO5i4ja5VPYulXBOkA8jMt/view?usp=drive_link"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=black"/></a>
 </p>
 <br>
 
