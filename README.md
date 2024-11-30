@@ -14,13 +14,6 @@
 -->
 
 <br>
-
-<h3 align="center">💻 My Github Stats 💻</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaamong&show_icons=true&count_private=true&hide=issues">
-</p><br>
-
-<br>
 <h3 align="center">🌱 About Me 🌱</h3>
 <p align="center">
   <a href="https://drive.google.com/file/d/17kaciCXbBJgWrEGeVuhWcxO7u1Owg9mS/view?usp=sharing"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=black"/></a>
